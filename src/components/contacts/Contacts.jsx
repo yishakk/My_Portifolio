@@ -5,13 +5,14 @@ import {BsWhatsapp} from 'react-icons/bs'
 import { useRef } from 'react';
 import emailjs from 'emailjs-com'
 
+
 const Contacts = () => {
   const form = useRef();
 
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('service_w4t13mq', 'template_mnh09ti', form.current, 'a0illdUXUrT6HOIKY')
+    emailjs.sendForm('service_iu6xkc1', 'template_1v8y7pz', form.current, 'Hg6cdPZjAnDSbcFzU')
 
     e.target.reset()
 
@@ -33,14 +34,14 @@ const Contacts = () => {
           <article className='contact__option'>
             <MdOutlineEmail className='contact__option-icon'/>
             <h4>Email</h4>
-            <h5>kenmafabi23@gmail.com</h5>
-            <a href="mailto:kenmfabi23@gmail.com" target="_blank">Send a message</a>
+            <h5>yishakkibru@gmail.com</h5>
+            <a href="mailto:yishakkibru@gmail.com" target="_blank">Send a message</a>
           </article>
  <article className='contact__option'>
             <BsWhatsapp className='contact__option-icon'/>
             <h4>WhatsApp</h4>
-            <h5>256700673126</h5>
-            <a href="https://api.whatsapp.com/send?phone=256700673126" target="_blank">Send a message</a>
+            <h5>+251911753613</h5>
+            <a href="https://api.whatsapp.com/send?phone=251911753613" target="_blank">Send a message</a>
           </article>
         </div>
         {/*END OF CONTACT OPTIONS */}
