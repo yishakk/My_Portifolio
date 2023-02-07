@@ -20,7 +20,7 @@ const data = [
   {
     avatar: AVAR1,
     name: 'Rodas Tamiru',
-    review: "I Hired Yishak build the backend of awebsite using PHP and SQL.He took the time to assess my requriements and kept me informed on how the development was going throught the whole process.He explained things easily, without using technical jargons. A hard working professional. I highly recommend. I asked another developer to do a code review, and he said the code Mafabi wrote was readable and clear."
+    review: "I Hired Yishak build the backend of awebsite using PHP and SQL.He took the time to assess my requriements and kept me informed on how the development was going throught the whole process.He explained things easily, without using technical jargons. A hard working professional. I highly recommend. I asked another developer to do a code review, and he said the code Yishak wrote was readable and clear."
       },  
       
   {

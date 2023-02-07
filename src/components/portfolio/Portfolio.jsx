@@ -1,5 +1,6 @@
 import React from 'react'
 import './portfolio.css'
+import IMG1 from '../../assets/portfolio1b.PNG'
 import IMG2 from '../../assets/portfolio2b.PNG'
 import IMG3 from '../../assets/portfolio3.PNG'
 import IMG4 from '../../assets/portfolio4b.PNG'
@@ -9,6 +10,14 @@ import IMG6 from '../../assets/portfolio5b.PNG'
 
 // Array method//
 const data = [
+  {
+    id: 1,
+    image: IMG1,
+    title: 'E-commerce',
+    github: 'https://github.com/yishakk/My_project',
+    demo: 'https://my-project-mor5.vercel.app/'
+  },
+
   {
     id: 2,
     image: IMG2,
@@ -47,9 +56,7 @@ const data = [
     title: 'Responsive Image Gallery',
     github: 'https://github.com/yishakk/Responsive_image_gallery',
     demo: 'https://responsive-image-gallery-ten.vercel.app/'
-  },
-
-  
+  },  
 ]
 
 const Portfolio = () => {
