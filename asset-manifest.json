@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5d8e7781.css",
+    "main.js": "/static/js/main.9285195d.js",
+    "static/media/onome-resume.pdf": "/static/media/onome-resume.96a11d5128dc550a025f.pdf",
+    "static/media/portfolio3.PNG": "/static/media/portfolio3.f6fac68fff18e21c9508.PNG",
+    "static/media/portfolio4b.PNG": "/static/media/portfolio4b.d77ef52ec50b60c74b50.PNG",
+    "static/media/portfolio5b.PNG": "/static/media/portfolio5b.3a7c211b2cacb0dafe13.PNG",
+    "static/media/smiling.jpg": "/static/media/smiling.4bf357adee2af42fb73f.jpg",
+    "static/media/portfolio5.PNG": "/static/media/portfolio5.a98933bdb420b14f31f1.PNG",
+    "static/media/portfolio1b.png": "/static/media/portfolio1b.948ca3b5f09478b35499.png",
+    "static/media/Mule.jpg": "/static/media/Mule.23d40ae465efe5aace6b.jpg",
+    "static/media/Rodi.jpg": "/static/media/Rodi.2bfdfba0bfeaf369b6da.jpg",
+    "static/media/portfolio2b.PNG": "/static/media/portfolio2b.48963489e04e8efe3903.PNG",
+    "static/media/Sandi.jpg": "/static/media/Sandi.260b4f03abc3410b6d6c.jpg",
+    "index.html": "/index.html",
+    "main.5d8e7781.css.map": "/static/css/main.5d8e7781.css.map",
+    "main.9285195d.js.map": "/static/js/main.9285195d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d8e7781.css",
+    "static/js/main.9285195d.js"
+  ]
+}
